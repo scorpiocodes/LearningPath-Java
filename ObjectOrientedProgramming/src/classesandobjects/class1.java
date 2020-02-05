@@ -1,7 +1,0 @@
-/**
- *
- * @author scorpiocodes
- */
-
-package classesandobjects;
-
